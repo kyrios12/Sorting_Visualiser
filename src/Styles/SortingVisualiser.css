@@ -1,0 +1,23 @@
+.array-container {
+    margin: 0px;
+    height: 90vh;
+    width: 97vw;
+    padding: 5px;
+    border: 4px solid wheat;
+    background-color: #212121;
+    display: flex;
+    position: absolute;
+  }
+  .btn-container{
+
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  
